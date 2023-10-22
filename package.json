@@ -1,0 +1,16 @@
+{
+  "name": "matrix-multiplication-node",
+  "version": "1.0.0",
+  "description": "threaded matrix multiplication in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "threaded",
+    "matrix-multiplication",
+    "parallel"
+  ],
+  "author": "Lachlan Malec <lachlan@lachlanmalec.dev>",
+  "license": "BSD-3-Clause"
+}
